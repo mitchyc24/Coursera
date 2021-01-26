@@ -1,0 +1,7 @@
+This is a test of the word counting python script in week 4 of python for evertyone. It is supposed to count the number of words in this file. Python is a powerful yet simple language.
+This is for a python programming course with coursera.
+Python is the most common word in this text.
+Python is flexible.
+Python Python python python.
+Python Python python python.
+Python Python python python.
